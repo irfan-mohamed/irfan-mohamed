@@ -28,11 +28,11 @@
 </a>
 
 <a href="https://kaggle.com/irfanmohamedvdk" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=kaggle" height="40"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40"/>
 </a>
 
 <a href="https://medium.com/@hangver8055" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=medium" height="40"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" height="40"/>
 </a>
 </p>
 
