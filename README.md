@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irfan Mohamed</h1>
-<h3 align="center">Data Science | Backend Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Science | Machine Learning | Backend Developer</h3>
+
+<p align="center">
+Building intelligent systems with Machine Learning, AI Automation, and Scalable Backend Solutions.
+</p>
 
 ---
 
@@ -11,40 +15,61 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Generative Process Automation & AI Agents**
-- 🤝 I’m looking to collaborate on **AI Agents / Autonomous Systems**
-- ✍️ I occasionally write articles on **Medium**
-- 💬 Ask me about **Machine Learning, AI Agents, Backend Systems**
-- 📫 How to reach me **irfanmohamedvdk@gmail.com**
-- 🔗 Know more about my experience **LinkedIn**
+- 🔭 Currently working on **Generative Process Automation & AI Agents**
+- 🧠 Learning and practicing **Machine Learning & Unsupervised Learning**
+- 🏗️ Built **Automatic Timetable Generator with Resource Allocation**
+- 📊 Interested in **Data Science, ML Systems, and Intelligent Automation**
+- ✍️ I occasionally write technical articles on **Medium**
+- 💬 Ask me about **Machine Learning, Backend Systems, AI Automation**
+- 📫 Reach me at **irfanmohamedvdk@gmail.com**
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/irfanmohamedvdk" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+
+<a href="https://linkedin.com/in/irfanmohamedvdk" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://kaggle.com/irfanmohamedvdk" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40"/>
+<a href="https://kaggle.com/irfanmohamedvdk" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40"/>
 </a>
 
-<a href="https://medium.com/@hangver8055" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" height="40"/>
+<a href="https://medium.com/@hangver8055" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" height="40"/>
 </a>
+
 </p>
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Languages & Tools
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mysql,mongodb,docker,git,linux,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mysql,mongodb,docker,git,linux,tensorflow,pytorch,sklearn" />
 
 </p>
+
+---
+
+## 📌 Key Projects
+
+### 📅 Automatic Timetable Generator
+- Smart timetable generation using constraint-based scheduling
+- Built with **React, Node.js, MySQL**
+- Includes **leave management, substitute recommendation, analytics**
+
+### 🤖 AI Agents & Process Automation
+- Experimenting with **agent-based automation**
+- Building workflows that integrate **LLMs + automation pipelines**
+
+### 📊 Machine Learning Experiments
+- K-Means, DBSCAN, Hierarchical Clustering
+- PCA for dimensionality reduction
+- Model evaluation using **Silhouette Score & clustering metrics**
 
 ---
 
@@ -73,3 +98,17 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfan-mohamed&theme=react-dark"/>
 </p>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced **Machine Learning**
+- **Unsupervised Learning & Clustering**
+- **AI Agents**
+- **ML System Design**
+- **Data Science Interview Preparation**
+
+---
+
+⭐ *Always exploring how Machine Learning can solve real-world problems.*
