@@ -33,12 +33,12 @@ Building intelligent systems with Machine Learning, AI Automation, and Scalable 
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://kaggle.com/irfanmohamedvdk" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40"/>
+<a href="https://medium.com/@irfan.data" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" height="40"/>
 </a>
 
-<a href="https://medium.com/@hangver8055" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" height="40"/>
+<a href="https://kaggle.com/irfanmohamedvdk" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40"/>
 </a>
 
 </p>
